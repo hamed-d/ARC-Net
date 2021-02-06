@@ -7,7 +7,7 @@ A preprocessing code for RealWorld is also provided.
 
  - [**ARCNet for the RealWorld dataset**](/ARCNet-Large-RealWorld.ipynb)
  - [**ARCNet for the PAMAP2 dataset**](/ARCNet-Large-PAMAP.ipynb)
- - [**ARCNet-Small for the RealWorld dataset**](/ARCNet-Small-RealWord.ipynb)
+ - [**ARCNet-Small for the RealWorld dataset**](/ARCNet-Small-RealWorld.ipynb)
  - [**ARCNet-Small for the PAMAP2 dataset**](/ARCNet-Small-PAMAP.ipynb)
  
 ## Python requirements 
